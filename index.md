@@ -7,6 +7,6 @@
 
 Если у вас возникли вопросы по работе с приложением, или вы столкнулись с проблемами – пишите нам ([сюда](mailto:imak.service@gmail.com)). Наш отдел техподдержки всегда готов помочь.
 
-![Image](https://github.com/zslavman/imak-support/raw/gh-pages/iPhone11Pro_01s.jpg)
+![Image](https://github.com/zslavman/imak-support/blob/gh-pages/iPhone11Pro_01s.png)
 
 2020 Зинько Вячеслав 
